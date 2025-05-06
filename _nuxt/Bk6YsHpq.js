@@ -1,0 +1,1 @@
+import{_ as o,c as s,o as t,z as c}from"./n9gZW00_.js";const n={},_={class:"max-w-screen-xl mx-auto px-5"};function r(e,a){return t(),s("div",_,[c(e.$slots,"default")])}const m=o(n,[["render",r]]);export{m as _};

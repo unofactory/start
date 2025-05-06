@@ -1,0 +1,1 @@
+.animate-fade-in{animation:fadeIn 1s ease-in-out}.animate-slide-in-right{animation:slideInRight 1s ease-in-out}@keyframes fadeIn{0%{opacity:0}to{opacity:1}}@keyframes slideInRight{0%{opacity:0;transform:translate(50px)}to{opacity:1;transform:translate(0)}}.logo{font-size:1.5rem;font-weight:700}

@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as n,b as a,bc as c}from"./n9gZW00_.js";const _={name:"DefaultLayout"};function s(r,p,u,f,l,d){const e=c;return n(),o("div",null,[a(e)])}const i=t(_,[["render",s]]);export{i as default};
